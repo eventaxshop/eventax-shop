@@ -1,1 +1,0 @@
-# eventax-shop
